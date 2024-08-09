@@ -6,4 +6,4 @@
 
 <h2>Projenin Ön Gösterimi</h2>
 
-<img src="https://s1.ezgif.com/tmp/ezgif-1-8df9a8d6fb.gif"/>
+![netflix gif](https://github.com/user-attachments/assets/e25ee536-896a-41fc-ab3c-abe48386346a)
